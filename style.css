@@ -1,0 +1,49 @@
+body{
+background-image: url("fundo.jpg");
+
+}   
+ .titulo{
+    color: chartreuse;
+    font-size: 40px;
+ }
+ .informaçao{
+    color: chartreuse;
+    font-size: 30px;
+ }
+ .digite{
+    color: chartreuse;
+    font-size: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+ }
+ .input1{
+    background-color: rgb(250, 116, 6); ;
+    border: 0px;
+    height: 30px; ;
+    border-radius: 10px;
+    color: rgb(239, 243, 243);
+    font-size: 20px;
+
+ }
+ .input2{
+    background-color: rgb(250, 116, 6); ;
+    border: 0px;
+    height: 30px; ;
+    border-radius: 10px;
+    color: rgb(250, 252, 252);
+    font-size: 20px;
+
+ }
+ .botao{
+    background-color: rgb(9, 241, 21);
+    background-color: rgb(250, 116, 6); ;
+    border: 0px;
+    height: 30px; ;
+    border-radius: 10px;
+    cursor: pointer;
+    
+ }
+ .botao:hover{
+    background-color: rgb(9, 241, 21);
+    color: azure;
+ }
+ 
